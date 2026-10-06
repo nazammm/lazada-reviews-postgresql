@@ -1,0 +1,6 @@
+platform,reviews,pct_of_reviews,avg_rating,negative_pct
+Android app,64592,80.6,4.64,5.9
+Desktop browser,5793,7.2,4.46,7.5
+Mobile browser,3625,4.5,4.32,9.9
+iOS app,3474,4.3,4.65,5.7
+"Mobile app, OS not recorded",2608,3.3,4.03,16.4

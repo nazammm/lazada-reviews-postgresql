@@ -1,0 +1,10 @@
+metric,value
+Rows in the raw CSV,203787
+Unique reviews after deduplication,80092
+Items,4422
+Items listed on more than one page,3318
+Reviews with written text,79751
+Reviews without a purchase date,2557
+Raw rows with a like count of -1,7
+First purchase date,2014-04-19
+Last purchase date,2019-10-02

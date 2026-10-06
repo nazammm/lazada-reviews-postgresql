@@ -1,0 +1,31 @@
+product_type,theme,reviews_mentioning,negative_reviews,pct_of_negative
+External hard drive,Broken or not working,25,172,14.5
+External hard drive,Slow delivery,20,172,11.6
+External hard drive,Not as described,13,172,7.6
+External hard drive,"Seller, refund, warranty",11,172,6.4
+External hard drive,Packaging,5,172,2.9
+External hard drive,Fake or smaller capacity,1,172,0.6
+Flash drive,Broken or not working,379,1695,22.4
+Flash drive,Fake or smaller capacity,96,1695,5.7
+Flash drive,Slow delivery,81,1695,4.8
+Flash drive,Not as described,62,1695,3.7
+Flash drive,"Seller, refund, warranty",59,1695,3.5
+Flash drive,Packaging,21,1695,1.2
+Laptop,Broken or not working,34,219,15.5
+Laptop,Slow delivery,23,219,10.5
+Laptop,"Seller, refund, warranty",21,219,9.6
+Laptop,Fake or smaller capacity,8,219,3.7
+Laptop,Not as described,7,219,3.2
+Laptop,Packaging,3,219,1.4
+TV,Broken or not working,256,1029,24.9
+TV,Slow delivery,208,1029,20.2
+TV,"Seller, refund, warranty",174,1029,16.9
+TV,Packaging,68,1029,6.6
+TV,Not as described,60,1029,5.8
+TV,Fake or smaller capacity,5,1029,0.5
+Unclassified,Broken or not working,365,2081,17.5
+Unclassified,Slow delivery,132,2081,6.3
+Unclassified,"Seller, refund, warranty",119,2081,5.7
+Unclassified,Not as described,109,2081,5.2
+Unclassified,Fake or smaller capacity,99,2081,4.8
+Unclassified,Packaging,44,2081,2.1
